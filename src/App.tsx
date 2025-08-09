@@ -1,8 +1,6 @@
 import { useEffect, useState } from "react";
-// import NewPurchase from "./components/NewPurchase";
 import NewPurchase from "./newPurchase";
 import { useNavigate } from "react-router-dom";
-
 import ItemForm from "./components/ItemForm";
 import ItemTable from "./components/ItemTable";
 
